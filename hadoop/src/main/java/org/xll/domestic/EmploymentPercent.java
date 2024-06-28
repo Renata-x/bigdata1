@@ -14,7 +14,7 @@ import java.sql.SQLException;
 @Getter
 @AllArgsConstructor
 @NoArgsConstructor
-public class CategoryPercent implements DBWritable {
+public class EmploymentPercent implements DBWritable {
   private String employment;
   private int value;
 
