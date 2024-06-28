@@ -132,7 +132,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.13.0</version>
+                <version>3.8.1</version>
                 <configuration>
                     <!-- 设置编译字符编码 -->
                     <encoding>utf-8</encoding>
@@ -154,7 +154,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
-                <version>3.4.1</version>
+                <version>3.0.2</version>
             </plugin>
             <!-- 编译级别 -->
             <!-- 打包的时候跳过测试junit begin -->
